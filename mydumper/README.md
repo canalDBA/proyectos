@@ -10,4 +10,4 @@ hace:
 ansible-playbook compile_mydumper_debian.yml -i <dir inventorio si tenés varios entornos>
 ```
 
-Si falla en alguna task, no vuelvas del principio, agregá --start-at-task="<task name>"
+Si falla en alguna task, no vuelvas del principio, agregá `--start-at-task="<task name>"`
