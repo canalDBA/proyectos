@@ -1,6 +1,6 @@
 ## Como compilar MyDumper
 
-maxbube tiene un repo que levanta u par de vagrants y ansiliza este
+maxbube tiene un repo que levanta u par de vagrants y _ansibiliza_ este
 proceso. El [repo es este](https://github.com/maxbube/mydumper_builder).
 
 En el caso que ya tengas montada la máquina, agregala al ansible_hosts y
