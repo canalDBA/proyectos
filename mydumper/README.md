@@ -1,5 +1,7 @@
 ## Como compilar MyDumper
 
+Mentor: Maximiliano Bubenik
+
 maxbube tiene un repo que levanta u par de vagrants y _ansibiliza_ este
 proceso. El [repo es este](https://github.com/maxbube/mydumper_builder).
 
